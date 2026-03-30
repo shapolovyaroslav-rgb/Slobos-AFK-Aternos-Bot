@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Gandon1",
+    "username": "ShlyapkaBot",
     "password": "",
     "type": "offline"
   },
@@ -29,7 +29,7 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 120,
+      "repeat-delay": 1200000,
       "messages": [
         "ya tuporiliy",
         "ya ymstvennootlsiy!",
