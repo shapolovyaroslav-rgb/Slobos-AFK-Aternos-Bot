@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "Botyara",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "nikitkayarikpop-LK0L.aternos.me",
     "port": 33120,
-    "version": "1.21.11",
+    "version": "1.21.1",
     "try-creative": false
   },
   "position": {
